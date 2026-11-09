@@ -1,3 +1,0 @@
-# Keep the host available for pure logic checks; firmware selects its target.
-[alias]
-fw = "build --release -p firmware --target thumbv7em-none-eabihf"
